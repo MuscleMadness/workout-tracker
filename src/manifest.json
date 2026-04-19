@@ -1,6 +1,6 @@
 {
-  "name": "Muscle Madness Workout Planner",
-  "short_name": "Workout Planner",
+  "name": "GymMate Workout Planner",
+  "short_name": "GymMate",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [
